@@ -1,12 +1,14 @@
 terraform {
 
+/*
   cloud {
-    organization = "hashicorp-learn"
+    organization = "greyfox-ventures"
 
     workspaces {
       name = "learn-terraform-cloud"
     }
   }
+  */
 
   required_providers {
     aws = {
